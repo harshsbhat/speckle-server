@@ -146,7 +146,7 @@
     "zod": "^3.22.4"
   },
   "engines": {
-    "node": "^16.0.0"
+    "node": "^18.0.0"
   },
   "installConfig": {
     "hoistingLimits": "workspaces"
